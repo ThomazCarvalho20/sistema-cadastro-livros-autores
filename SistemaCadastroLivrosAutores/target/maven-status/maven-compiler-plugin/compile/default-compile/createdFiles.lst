@@ -1,0 +1,9 @@
+com\mycompany\sistemacadastrolivrosautores\configurations\MySQL.class
+com\mycompany\sistemacadastrolivrosautores\model\services\LivroServices.class
+com\mycompany\sistemacadastrolivrosautores\model\dao\AutorDao.class
+com\mycompany\sistemacadastrolivrosautores\model\domain\Autor.class
+com\mycompany\sistemacadastrolivrosautores\model\services\AutorServices.class
+com\mycompany\sistemacadastrolivrosautores\model\dao\LivroDao.class
+com\mycompany\sistemacadastrolivrosautores\model\domain\Livro.class
+com\mycompany\sistemacadastrolivrosautores\SistemaCadastroLivrosAutores.class
+com\mycompany\sistemacadastrolivrosautores\exceptions\CadastroException.class
